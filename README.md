@@ -7,6 +7,9 @@
 <h3 align="left">About me:</h3>
 - Hey there! 👋 As a front-end developer I love creating awesome and eye-catching websites. My journey in web development has been super exciting and fulfilling. I'm always eager to dive into new technologies and stay on top of the latest design trends. Let's build something amazing together! 🚀
 
+<h3 align="left">My Vision:</h3>
+-I enjoy making cool websites look great. I find web development fun and satisfying. I'm always excited to try out new tech stuff and keep up with the latest in design. I want to see myself as a senior Full Stack Developer! 🚀
+
 - 💬 Ask me about **Javascript, Reactjs**
 
 - 📫 How to reach me **tanvir.web.dev.cse@gmail.com**
@@ -19,18 +22,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<div align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,react,express,mongodb)](https://skillicons.dev)
 
-</p>
+</div>
 
 
 
 
-
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tanvir-art&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+  
+</div>
 
+
+<div align="center">
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir-art&show_icons=true&locale=en&layout=compact" alt="tanvir-art" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir-art&show_icons=true&locale=en" alt="tanvir-art" /></p>
+
+</div>
