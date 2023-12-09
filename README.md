@@ -19,8 +19,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
+<p align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,react,express,mongodb)](https://skillicons.dev)
+
+</p>
+
+
 
 
 
