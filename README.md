@@ -1,11 +1,11 @@
 ![Banner](https://github.com/Tanvir-art/Tanvir-art/raw/main/Add%20a%20heading.gif)
 <h1 align="center">Hi 👋, I'm Tanvir Hasan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-art&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-art" /> </p>
 <h3 align="left">About me:</h3>
-- Hey there! 👋 As a front-end developer I love creating awesome and eye-catching websites. My journey in web development has been super exciting and fulfilling. I'm always eager to dive into new technologies and stay on top of the latest design trends. Let's build something amazing together! 🚀
+- Hey there! 👋 As a MERN developer I love creating awesome and eye-catching websites. My journey in web development has been super exciting and fulfilling. I'm always eager to dive into new technologies and stay on top of the latest design trends. Let's build something amazing together! 🚀
 
 <h3 align="left">My Vision:</h3>
 -I enjoy making cool websites look great. I find web development fun and satisfying. I'm always excited to try out new tech stuff and keep up with the latest in design. I want to see myself as a senior Full Stack Developer! 🚀
