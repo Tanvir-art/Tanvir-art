@@ -10,7 +10,7 @@ I'm a passionate, results-driven **Full Stack Developer** with hands-on experien
 
 - **Frontend**: Angular, React, Next.js, Redux, TypeScript
 - **Backend**: Node.js, Express.js
-- **Database**: PostgreSQL
+- **Database**: PostgreSQL, MongoDB
 - **Tools**: Jira, Git & GitHub
 
 ---
