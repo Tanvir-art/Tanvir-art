@@ -1,46 +1,47 @@
-![Banner](https://github.com/Tanvir-art/Tanvir-art/raw/main/Add%20a%20heading.gif)
-<h1 align="center">Hi 👋, I'm Tanvir Hasan</h1>
-<h3 align="center">A passionate MERN developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# 👋 Hi, I'm Tanvir Hasan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-art&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-art" /> </p>
-<h3 align="left">About me:</h3>
-- Hey there! 👋 As a MERN developer I love creating awesome and eye-catching websites. My journey in web development has been super exciting and fulfilling. I'm always eager to dive into new technologies and stay on top of the latest design trends. Let's build something amazing together! 🚀
+## 🚀 Full Stack Developer
 
-<h3 align="left">My Vision:</h3>
--I enjoy making cool websites look great. I find web development fun and satisfying. I'm always excited to try out new tech stuff and keep up with the latest in design. I want to see myself as a senior Full Stack Developer! 🚀
+I'm a passionate, results-driven **Full Stack Developer** with hands-on experience building scalable, high-performance web applications. My expertise spans both front-end and back-end development, with a focus on crafting seamless user experiences and robust backend solutions.
 
-- 💬 Ask me about **Javascript, Reactjs**
+---
 
-- 📫 How to reach me **tanvir.web.dev.cse@gmail.com**
+### 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tanvir-hasan-a4126b237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-hasan-a4126b237" height="30" width="40" /></a>
-</p>
+- **Frontend**: Angular, React, Next.js, Redux, TypeScript
+- **Backend**: Node.js, Express.js
+- **Database**: PostgreSQL
+- **Tools**: Jira, Git & GitHub
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 📂 Featured Projects
 
-<div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,react,express,mongodb)](https://skillicons.dev)
+- [**Portfolio**](https://github.com/Tanvir-art/Portfolio)  
+  My personal portfolio showcasing my skills, projects, and journey.
 
-</div>
+- [**Bike Rental**](https://github.com/Tanvir-art/bikeRental)  
+  A robust bike rental management application built using my full stack skill set.
 
+---
 
+### 👤 About Me
 
+I'm dedicated to continuous learning and love tackling challenging problems. Whether it's optimizing backend APIs, architecting frontend applications, or collaborating with teams using agile tools like Jira, I bring my best to every project. Always open to connecting, collaborating, and learning new things!
 
-<div align="center">
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tanvir-art&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-  
-</div>
+### 🌐 Connect with Me
 
+- [LinkedIn](https://www.linkedin.com/in/tanvir-hasan-a4126b237/)
+- [GitHub](https://github.com/Tanvir-art)
 
-<div align="center">
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir-art&show_icons=true&locale=en&layout=compact" alt="tanvir-art" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir-art&show_icons=true&locale=en" alt="tanvir-art" /></p>
+---
 
-</div>
+### ⚽ Hobbies
+
+I enjoy playing **football** and **badminton** in my free time!
+
+---
+
+*Let's build something amazing together!*
