@@ -12,7 +12,7 @@ I'm a passionate, results-driven **Full Stack Developer** with hands-on experien
 - **Backend**: Node.js, Express.js
 - **Database**: PostgreSQL, MongoDB
 - **Tools**: Jira, Git & GitHub
-- **Devops/Platform**: Docker, CI/Cd
+- **Devops/Platform**: Docker, CI/CD
 
 ---
 
