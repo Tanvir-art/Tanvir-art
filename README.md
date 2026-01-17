@@ -12,13 +12,21 @@ I'm a passionate, results-driven **Full Stack Developer** with hands-on experien
 - **Backend**: Node.js, Express.js
 - **Database**: PostgreSQL, MongoDB
 - **Tools**: Jira, Git & GitHub
+- **Devops/Platform**: Docker, CI/Cd
 
 ---
 
 ### 📂 Featured Projects
 
-- [**Portfolio**](https://github.com/Tanvir-art/Portfolio)  
-  My personal portfolio showcasing my skills, projects, and journey.
+  
+- [**ChatGPT Clone (Frontend)**](https://github.com/Tanvir-art/chatgpt-clone-frontend)  
+  A sleek frontend interface for a ChatGPT clone, built with modern web technologies for smooth user experience.
+
+- [**ChatGPT Clone (Backend)**](https://github.com/Tanvir-art/chatgpt_clone_backend)  
+  The backend API powering the ChatGPT clone, handling requests, user sessions, and AI integrations efficiently.
+
+- [**BullMQ Worker GPT**](https://github.com/Tanvir-art/bullmq_worker_gpt)  
+  A worker service built with BullMQ to process GPT-based tasks asynchronously, ensuring fast and reliable job handling.
 
 - [**Bike Rental**](https://github.com/Tanvir-art/bikeRental)  
   A robust bike rental management application built using my full stack skill set.
@@ -27,7 +35,7 @@ I'm a passionate, results-driven **Full Stack Developer** with hands-on experien
 
 ### 👤 About Me
 
-I'm dedicated to continuous learning and love tackling challenging problems. Whether it's optimizing backend APIs, architecting frontend applications, or collaborating with teams using agile tools like Jira, I bring my best to every project. Always open to connecting, collaborating, and learning new things!
+I’m a full-stack developer with hands-on experience in MERN, MEAN, and PERN stacks. I enjoy tackling challenging problems, optimizing backend APIs, and architecting scalable frontend applications. Experienced with Docker and deploying projects on live VMs, I thrive in collaborative, agile environments. I’m passionate about continuous learning, building efficient solutions, and exploring new technologies.
 
 ---
 
